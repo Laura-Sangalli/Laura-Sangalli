@@ -3,7 +3,9 @@
 
 ##
 - 🏠 Paraná, Brasil;
-- 💻 Estudante de Engenharia de Computação - UTFPR;
+- 💻 Estudante do 4º período de Engenharia de Computação - UTFPR;
+- 📚 Exeriência com a linguagem C. Atualmente, aprendendo CSS e Python;
+- 📌 No repositório fixado, estão alguns dos projetos mais recentes de CSS que tenho desenvolvido. 
 ##
   <img align="center" alt="Laura-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Laura-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
