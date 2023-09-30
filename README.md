@@ -4,7 +4,7 @@
 ##
 - 🏠 Paraná, Brasil;
 - 💻 I am a student in the 4th semester of **Computer Engineering** at UTFPR;
-- 📚 I have experience on **C language**. Currently, I've been learning **Python** and **Java**;
+- 📚 I have experience with **C language**. Currently, I've been learning **Python** and **Java**;
 - 📌 My most recent projects are in the fixed repositories. I am focused on **Back-End programing, OOP and Data Science learning**. 
 ##
   <img align="center" alt="Laura-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Laura-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> <img align="center" alt="Laura-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
