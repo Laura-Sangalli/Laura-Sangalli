@@ -3,7 +3,7 @@
 
 ##
 - 🏠 Paraná, Brasil;
-- 💻 I am a student in 4th semester of **Computer Engineering** at UTFPR;
+- 💻 I am a student in the 4th semester of **Computer Engineering** at UTFPR;
 - 📚 I have experience on **C language**. Currently, I've been learning **Python** and **Java**;
 - 📌 My most recent projects are in the fixed repositories. I am focused on **Back-End programing, OOP and Data Science learning**. 
 ##
