@@ -5,7 +5,7 @@
 - 📚 <kbd>I have experience with **C language**. Currently, I've been learning **Python** and **Java**;</kbd>
 - 📌 <kbd>My most recent projects are in the fixed repositories. I am focused on **Back-End programing and Data Science learning**.</kbd>
 #
-![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laura-Sangalli&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laura-Sangalli\&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <img align="right" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Super_Mario.gif" width="250px" /> 
 
 <img align="right" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="390px" /> 
