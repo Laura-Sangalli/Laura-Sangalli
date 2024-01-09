@@ -7,7 +7,7 @@
 #
 ![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laura-Sangalli&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-<img align="right" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="550px" /> 
+<img align="right" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="400px" /> 
 
 
 ##
