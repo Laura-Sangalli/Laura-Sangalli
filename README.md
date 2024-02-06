@@ -11,8 +11,8 @@
 
 <div align="center" justify-items="space-between">
   
-  <img width='520' src="https://github-readme-streak-stats.herokuapp.com/?user=Laura-Sangalli&theme=tokyonight" />  
-  <img width='475' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Laura-Sangalli&theme=tokyonight" />
+  <img width=52% src="https://github-readme-streak-stats.herokuapp.com/?user=Laura-Sangalli&theme=tokyonight" />  
+  <img width=47% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Laura-Sangalli&theme=tokyonight" />
 </div>
   
 ----
