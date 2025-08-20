@@ -1,9 +1,9 @@
 ## $${\color{lightblue}Hello! \space I \space am \space Laura \space 💖 \space Welcome \space to \space my \space GitHub!}$$
 
 - 🏠 <kbd>Paraná, Brasil;</kbd>
-- 💻 <kbd>I am a student in the 5th semester of **Computer Engineering** at UTFPR;</kbd>
-- 📚 <kbd>I have experience with **C and Java**. Currently, I've been learning **Python**;</kbd>
-- 📌 <kbd>My most recent projects are in the fixed repositories. I am focused on **Data Science learning**.</kbd>
+- 💻 <kbd>I am a student in the 6th semester of **Computer Engineering** at UTFPR;</kbd>
+- 📚 <kbd>I have experience with **C, Java and Python**. Currently, I've been working with **Deep Learning**;</kbd>
+- 📌 <kbd>My most recent projects are in the fixed repositories.</kbd>
 
 
  ### $${\color{lightblue}Visitors}$$
