@@ -1,16 +1,11 @@
 ## $${\color{lightblue}Hello! \space I \space am \space Laura \space 💖 \space Welcome \space to \space my \space GitHub!}$$
 
-- 🏠 <kbd>Paraná, Brasil;</kbd>
-- 💻 <kbd>I am a student in the 6th semester of **Computer Engineering** at UTFPR;</kbd>
-- 📚 <kbd>I have experience with **C, Java and Python**. Currently, I've been working with **Deep Learning**;</kbd>
-- 📌 <kbd>My most recent projects are in the fixed repositories.</kbd>
+- 🏠 <kbd>Paraná, Brasil;</kbd>  
+- 💻 <kbd>7th-semester **Computer Engineering** student at UTFPR;</kbd>  
+- 📚 <kbd>Experience with **C, Java and Python**, with a strong focus on **Data Science and Machine Learning**;</kbd>  
+- 🧠 <kbd>Academic background in **Signal and Image Processing**, applying **Deep Learning** techniques;</kbd>  
+- 📌 <kbd>The best representation of my work can be found here: [Portfólio Ciência de Dados](https://github.com/Laura-Sangalli/Portfolio-Ciencia-de-Dados)</kbd>
 
-
- ### $${\color{lightblue}Visitors}$$
-<div align="center"> 
-  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Laura-Sangalli}/count.svg" /></p> 
-<br></div>
 
 ----
 
@@ -19,18 +14,9 @@
 <div align="center" justify-items="space-between">
   
   <img width=52% src="https://github-readme-streak-stats.herokuapp.com/?user=Laura-Sangalli&theme=tokyonight" />  
-  <img width=47% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Laura-Sangalli&theme=tokyonight" />
 </div>
   
 ----
-<div align="center">
-  <img align="center" alt="Laura-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Laura-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
-  <img align="center" alt="Laura-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Laura-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="center" alt="Laura-LaTeX" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"> 
-  <img align="center" alt="Laura-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</div>
 
 
 <div align="center">
