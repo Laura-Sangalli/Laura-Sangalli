@@ -7,14 +7,6 @@
 - 📌 <kbd>The best representation of my work can be found here: [Portfólio Ciência de Dados](https://github.com/Laura-Sangalli/Portfolio-Ciencia-de-Dados)</kbd>
 
 
-----
-
-<img width='1000' src="https://github-readme-activity-graph.vercel.app/graph?username=Laura-Sangalli&theme=tokyo-night" />
-
-<div align="center" justify-items="space-between">
-  
-  <img width=52% src="https://github-readme-streak-stats.herokuapp.com/?user=Laura-Sangalli&theme=tokyonight" />  
-</div>
   
 ----
 
