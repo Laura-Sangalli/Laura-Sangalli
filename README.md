@@ -2,9 +2,9 @@
 
 - 🏠 <kbd>Paraná, Brasil;</kbd>  
 - 💻 <kbd>7th-semester **Computer Engineering** student at UTFPR;</kbd>  
-- 📚 <kbd>Experience with **C, Java and Python**, with a strong focus on **Data Science and Machine Learning**;</kbd>  
+- 📚 <kbd>Experience with **C, Java and Python**, with a strong focus on **Software Development**;</kbd>  
 - 🧠 <kbd>Academic background in **Signal and Image Processing**, applying **Deep Learning** techniques;</kbd>  
-- 📌 <kbd>The best representation of my work can be found here: [Portfólio Ciência de Dados](https://github.com/Laura-Sangalli/Portfolio-Ciencia-de-Dados)</kbd>
+
 
 
   
