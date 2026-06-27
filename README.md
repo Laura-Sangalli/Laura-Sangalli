@@ -5,9 +5,9 @@
 - 📚 <kbd>Experience with **C, Java and Python**, with a strong focus on **Software Development**;</kbd>  
 - 🧠 <kbd>Academic background in **Signal and Image Processing**, applying **Deep Learning** techniques;</kbd>  
 
+-----
 
-
-  
+  [![My Skills](https://skillicons.dev/icons?i=ts,py,sklearn,java,c,html,css,git,docker,figma,postgres,ubuntu,linux,arduino,vscode)](https://skillicons.dev)
 ----
 
 
