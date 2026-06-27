@@ -1,10 +1,10 @@
-## $${\color{lightblue}Hello! \space I \space am \space Laura \space 💖 \space Welcome \space to \space my \space GitHub!}$$
+## $${\color{lightblue}OLá! \space Eu \space sou \space a \space Laura \space 💖 \space Seja \space bem-vindo(a)!}$$
 
-- 🏠 <kbd>Paraná, Brasil;</kbd>  
-- 💻 <kbd>7th-semester **Computer Engineering** student at UTFPR;</kbd>  
-- 📚 <kbd>Experience with **C, Java and Python**, with a strong focus on **Software Development**;</kbd>  
-- 🧠 <kbd>Academic background in **Signal and Image Processing**, applying **Deep Learning** techniques;</kbd>  
-
+- 🏠 Paraná, Brasil
+- 🎓 Estudante de Engenharia de Computação na UTFPR (7º período)
+- 💼 Em busca da primeira oportunidade como Desenvolvedora de Software
+- 🚀 Desenvolvo projetos pessoais com front-end, back-end, APIs REST e bancos de dados
+- 🎲️ Experiência com Análise de Dados e _Machine Learning_
 -----
 
   [![My Skills](https://skillicons.dev/icons?i=ts,py,sklearn,java,c,html,css,git,docker,figma,postgres,ubuntu,linux,arduino,vscode)](https://skillicons.dev)
