@@ -1,4 +1,4 @@
-## $${\color{lightblue}OLá! \space Eu \space sou \space a \space Laura \space 💖 \space Seja \space bem-vindo(a)!}$$
+## $${\color{lightblue}Olá! \space Eu \space sou \space a \space Laura \space 💖 \space Seja \space bem-vindo(a)!}$$
 
 - 🏠 Paraná, Brasil
 - 🎓 Estudante de Engenharia de Computação na UTFPR (7º período)
