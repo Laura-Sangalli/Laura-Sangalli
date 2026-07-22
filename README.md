@@ -1,7 +1,7 @@
 ## $${\color{lightblue}Olá! \space Eu \space sou \space a \space Laura \space 💖 \space Seja \space bem-vindo(a)!}$$
 
 - 🏠 Paraná, Brasil
-- 🎓 Estudante de Engenharia de Computação na UTFPR (7º período)
+- 🎓 Estudante de Engenharia de Computação na UTFPR (9º período)
 - 💼 Em busca da primeira oportunidade como Desenvolvedora de Software
 - 🚀 Desenvolvo projetos pessoais com front-end, back-end, APIs REST e bancos de dados
 - 🎲️ Experiência com Análise de Dados e _Machine Learning_
