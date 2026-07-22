@@ -5,6 +5,10 @@
 - 💼 Em busca da primeira oportunidade como Desenvolvedora de Software
 - 🚀 Desenvolvo projetos pessoais com front-end, back-end, APIs REST e bancos de dados
 - 🎲️ Experiência com Análise de Dados e _Machine Learning_
+  
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Laura-Sangalli&theme=dark)](https://git.io/streak-stats)
+
 -----
 
   [![My Skills](https://skillicons.dev/icons?i=ts,py,sklearn,java,c,html,css,git,docker,figma,postgres,ubuntu,linux,arduino,vscode)](https://skillicons.dev)
